@@ -264,9 +264,9 @@
           "subtitle": "\nWe are a enterprise Business cell, integrated into a consistent collaborative form\n.",
           "testimonial": [
             {
-              "authorName": "Your Name",
-              "authorBio": "Your title",
-              "text": "<p><b>Sed ut perspiciatis</b> </p><p><span style=\"font-style: normal;\"><b>unde omnis iste natus error sit</b></span> voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur</p>",
+              "authorName": "Lena Ross",
+              "authorBio": "Director",
+              "text": "<p><span style=\"font-size: 1.125rem;\"><b>Lena Ross</b></span></p><p><span style=\"font-size: 1.125rem;\"><span style=\"font-style: normal;\"><b>#Changehacks</b></span></span></p><p>As an experienced change consultant with a reputation for valuable content creation and speaking at conferences and events, Lena has made a significant contribution to the change management profession.&nbsp;</p><p>​</p><p>Her work draws on the latest thinking in change management from areas such as design thinking, future of work, digital, hardwired human behaviour and agile mindset and approaches.&nbsp;</p><p>Building change capability in your organisation with change leadership, change readiness programs, team workshops, and the development of change roadmaps and plans. Building organisational agility with mindset, behaviours and practices.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/mbr-1-320x212.jpg",
@@ -300,20 +300,19 @@
               }
             },
             {
-              "authorName": "Your Name",
-              "authorBio": "Your title",
-              "text": "<p><b>“voluptatem quia voluptas</b> </p><p><b>sit aspernatur aut odit aut fug</b>it, </p><p>sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure repreh</p>",
+              "authorName": "Rob Dell",
+              "authorBio": "Director",
+              "text": "<p><b>Rob Dell</b></p><p><b>ICOMM</b></p><p>IComm is an award-winning consultancy and provider of integrated unified communications, IT and cloud services across Australia. Founded in 2001, IComm is headquartered in Melbourne and offers services in locations nation-wide.</p><p>Our range of solutions are designed to provide flexibility, coverage and scale to your organisation and transform it to a technologically savvy and productive communications environment.</p><p><br></p><p>Our people are our greatest asset, we say it often and with good reason. It is only with the determination and dedication of our people that we can serve our clients, generate value for them and provide long and prosperous relationships. We allow our staff to develop ideas that drive new perspectives, new products and new pathways for growth and success for us as well as our customers.</p><p><br></p><p>At the crux of our efforts is a focus on cultivating and sustaining a diverse work environment and workforce, which is critical to meeting the unique needs of our diverse client base and the communities in which we operate.</p><p><br></p><p>We are a Microsoft Gold Partner and one of Australia’s leading Skype for Business (formerly Lync) and Microsoft 365 specialists. Our partnership with PingCo enables us to offer a complete cloud migration strategy including cloud infrastructure management. We are also a Platinum Mitel partner specialising in IP telephony, collaboration and contact-centre solutions with the ability to design and integrate voice communications across multiple platforms.</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-10-09-at-6.11.44-pm-160x151.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "Technology strategy.html",
                   "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
+                  "title": ""
                 }
               }
             }
@@ -346,7 +345,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contat you for a free consultation.",
+          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contact you for a free consultation.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "michael@mg.net.au",
@@ -1793,7 +1792,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contat you for a free consultation.",
+          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contact you for a free consultation.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "michael@mg.net.au",
@@ -2335,7 +2334,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contat you for a free consultation.",
+          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contact you for a free consultation.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "michael@mg.net.au",
@@ -2877,7 +2876,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contat you for a free consultation.",
+          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contact you for a free consultation.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "michael@mg.net.au",
@@ -3419,7 +3418,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contat you for a free consultation.",
+          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contact you for a free consultation.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "michael@mg.net.au",
@@ -3677,7 +3676,7 @@
     },
     "relocation schedule.html": {
       "settings": {
-        "title": "Relocation Checklist",
+        "title": "Relocation schedule",
         "meta_descr": "Here is a handy list of things to keep in mind when relocating office",
         "header_custom": "",
         "footer_custom": "",
@@ -3975,7 +3974,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contat you for a free consultation.",
+          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contact you for a free consultation.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "michael@mg.net.au",
@@ -4360,7 +4359,7 @@
             "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contat you for a free consultation.",
+          "subtitle": "Shape your future office project with sharp design and refined functionality.<br>Drop us a line and we'll contact you for a free consultation.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "michael@mg.net.au",
