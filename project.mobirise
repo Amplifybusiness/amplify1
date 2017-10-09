@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 263,
+    "uniqCompNum": 264,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -44,62 +44,33 @@
       },
       "components": [
         {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
           "_params": {
-            "showTitle": false,
             "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
-              "width": 1400,
+              "active": true,
               "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "width": 1400,
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
+              "src": "",
               "autoplay": false,
               "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
             }
           },
-          "title": "FULL WIDTH INTRO",
-          "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-70"
+          "_name": "image2",
+          "_anchor": "image2-7b"
         },
         {
           "_styles": {
