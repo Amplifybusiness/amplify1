@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 266,
+    "uniqCompNum": 273,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -53,7 +53,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -125,7 +125,7 @@
             "iconsBgColor": "#f2f2f2",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 3,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -471,8 +471,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -489,7 +489,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -514,7 +514,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-73"
+          "_anchor": "msg-box7-7k"
         },
         {
           "_styles": {
@@ -704,7 +704,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><br></p><p><b>Strategy for Designing the workspace</b></p><p><br></p><p>A survey of a proposed space will determine areas of physical constraint and natural benefit and provide the foundation of space planning&nbsp;</p><p>It is essential to carry out an analysis of current people and space utilisation to initially determine current usage&nbsp;</p><p>Who is there ?&nbsp;</p><p>What do they do ?&nbsp;</p><p>What are the problems ?&nbsp;</p><p>In what ways the space excels.?&nbsp;</p><p>Each component part of the analysis will need consultation with executive and staff to understand&nbsp;</p><p>How, Why and When.&nbsp;</p><p>On understanding the essentials a comparison of existing space utilisation with leading trends and best practices can be made, gaps and opportunities be determined.&nbsp;</p><p><br></p><p>Generally the analysis of people and space is delivered in a number of steps with key components listed below;&nbsp;</p><p>• Analysis of existing office environments.&nbsp;</p><p>&nbsp; &nbsp;Carry out a survey of existing office space, locate common fixed assets,&nbsp;</p><p>• Analysis of proposed office space.&nbsp;</p><p>&nbsp; &nbsp; Carry out a detailed survey of existing office space, locate common fixed assets, determine physical problems areas in the tenancy.&nbsp;</p><p>• Analysis of current utilisation of space and assets through physical inspection and consultation with key staff.&nbsp;</p><p>• Document existing space use, identifying “hot points” and areas of under utilisation.&nbsp;</p><p><br></p><p>• Consult with executive and staff to understand and identify how your people currently work; defining the different styles of work, identifying unique working styles.&nbsp;</p><p>• Identify Individual specific needs&nbsp;</p><p>&nbsp;• Compare Space Analysis with current trends and leading practices.&nbsp;</p><p>• Consult with Executive to determine future staffing occupancy needs / growth and specific needs.&nbsp;</p><p>• Engage with staff to measure their satisfaction with how well the existing space supports their work&nbsp;</p><p><br></p><p><br></p><p>Information learned through the analysis of People, Technology and Space will be bought to engagement with executive staff in order to better understand the gaps between the status quo and ideal scenarios and will inform both the mechanism of the office and the modalities of the office design.</p><p><br></p><p>Having identified the existing ways of working and the potential for implementation of different ways of working we will have developed a “Workplace strategy blueprint” which identifies design principals.&nbsp;</p><p>The design principals will identify a strategy that specifically meets the determined outcomes and informs future development of the working environment&nbsp;</p><p>• Design standardisation&nbsp;</p><p>• Design connectivity and interpersonal communication&nbsp;</p><p>• Designed flexibility&nbsp;</p><p>• Multipurpose spaces&nbsp;</p><p>• Technology&nbsp;</p><p><br></p><p><br></p>",
-          "text2": "<p><br></p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive. </p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>&nbsp; &nbsp;of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p><p>Having identified the existing ways of working and the potential for implementation of different ways of working we will have developed a “Workplace strategy blueprint” which identifies design principals.&nbsp;</p><p>The design principals will identify a strategy that specifically meets the determined outcomes and informs future development of the working environment&nbsp;</p><p>• Design standardisation&nbsp;</p><p>• Design connectivity and interpersonal communication&nbsp;</p><p>• Designed flexibility&nbsp;</p><p>• Multipurpose spaces&nbsp;</p><p>• Technology&nbsp;</p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive.&nbsp;</p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>&nbsp; &nbsp;of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p>",
+          "text2": "<p><br></p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive. </p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>&nbsp; &nbsp;of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p><p>Having identified the existing ways of working and the potential for implementation of different ways of working we will have developed a “Workplace strategy blueprint” which identifies design principals.&nbsp;</p><p>The design principals will identify a strategy that specifically meets the determined outcomes and informs future development of the working environment&nbsp;</p><p>• Design standardisation&nbsp;</p><p>• Design connectivity and interpersonal communication&nbsp;</p><p>• Designed flexibility&nbsp;</p><p>• Multipurpose spaces&nbsp;</p><p>• Technology&nbsp;</p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive.&nbsp;</p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p>",
           "_tags": [
             "Theme"
           ],
@@ -950,8 +950,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -968,7 +968,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -993,7 +993,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-71"
+          "_anchor": "msg-box7-7i"
         },
         {
           "_styles": {
@@ -1294,8 +1294,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -1312,7 +1312,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1337,7 +1337,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-72"
+          "_anchor": "msg-box7-7j"
         },
         {
           "_styles": {
@@ -1638,8 +1638,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -1656,7 +1656,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2180,8 +2180,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -2198,7 +2198,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2223,7 +2223,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-75"
+          "_anchor": "msg-box7-7g"
         },
         {
           "_styles": {
@@ -2722,8 +2722,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -2740,7 +2740,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2765,7 +2765,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-76"
+          "_anchor": "msg-box7-7f"
         },
         {
           "_styles": {
@@ -3807,7 +3807,7 @@
             "inverse": false,
             "imageSize": "47",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -3824,7 +3824,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3849,7 +3849,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-74"
+          "_anchor": "msg-box7-7h"
         },
         {
           "_styles": {
@@ -4362,8 +4362,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "47",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -4380,7 +4380,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/amplify.svg",
+              "src": "@PROJECT_PATH@/assets/images/agilify.svg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4405,7 +4405,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-77"
+          "_anchor": "msg-box7-7e"
         },
         {
           "_styles": {
