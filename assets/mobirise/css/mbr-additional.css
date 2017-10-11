@@ -469,6 +469,13 @@ h6,
   text-align: left;
   color: #b8312f;
 }
+#features7-7d .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-7d .iconbox {
+  background-color: #c0a375;
+  border-color: #c0a375;
+}
 #features4-1k .card-subtitle {
   color: #bcbcbc;
 }

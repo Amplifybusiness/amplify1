@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-25_1517",
-    "currentPage": "index.html",
+    "currentPage": "Agile Office Design.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 264,
+    "uniqCompNum": 266,
     "versionPublish": "4.3.0"
   },
   "pages": {
@@ -559,27 +559,17 @@
           "_anchor": "msg-box8-2f"
         },
         {
+          "_inherit": "features4",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><br></p><p><b>Strategy for Designing the workspace</b></p><p><br></p><p>A survey of a proposed space will determine areas of physical constraint and natural benefit and provide the foundation of space planning&nbsp;</p><p>It is essential to carry out an analysis of current people and space utilisation to initially determine current usage&nbsp;</p><p>Who is there ?&nbsp;</p><p>What do they do ?&nbsp;</p><p>What are the problems ?&nbsp;</p><p>In what ways the space excels.?&nbsp;</p><p>Each component part of the analysis will need consultation with executive and staff to understand&nbsp;</p><p>How, Why and When.&nbsp;</p><p>On understanding the essentials a comparison of existing space utilisation with leading trends and best practices can be made, gaps and opportunities be determined.&nbsp;</p><p><br></p><p>Generally the analysis of people and space is delivered in a number of steps with key components listed below;&nbsp;</p><p>• Analysis of existing office environments.&nbsp;</p><p>&nbsp; &nbsp;Carry out a survey of existing office space, locate common fixed assets,&nbsp;</p><p>• Analysis of proposed office space.&nbsp;</p><p>&nbsp; &nbsp; Carry out a detailed survey of existing office space, locate common fixed assets, determine physical problems areas in the tenancy.&nbsp;</p><p>• Analysis of current utilisation of space and assets through physical inspection and consultation with key staff.&nbsp;</p><p>• Document existing space use, identifying “hot points” and areas of under utilisation.&nbsp;</p><p><br></p><p>• Consult with executive and staff to understand and identify how your people currently work; defining the different styles of work, identifying unique working styles.&nbsp;</p><p>• Identify Individual specific needs&nbsp;</p><p>&nbsp;• Compare Space Analysis with current trends and leading practices.&nbsp;</p><p>• Consult with Executive to determine future staffing occupancy needs / growth and specific needs.&nbsp;</p><p>• Engage with staff to measure their satisfaction with how well the existing space supports their work&nbsp;</p><p><br></p><p><br></p><p>Information learned through the analysis of People, Technology and Space will be bought to engagement with executive staff in order to better understand the gaps between the status quo and ideal scenarios and will inform both the mechanism of the office and the modalities of the office design.</p><p><br></p><p>Having identified the existing ways of working and the potential for implementation of different ways of working we will have developed a “Workplace strategy blueprint” which identifies design principals.&nbsp;</p><p>The design principals will identify a strategy that specifically meets the determined outcomes and informs future development of the working environment&nbsp;</p><p>• Design standardisation&nbsp;</p><p>• Design connectivity and interpersonal communication&nbsp;</p><p>• Designed flexibility&nbsp;</p><p>• Multipurpose spaces&nbsp;</p><p>• Technology&nbsp;</p><p><br></p><p><br></p>",
-          "text2": "<p><br></p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive. </p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>&nbsp; &nbsp;of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p><p>Having identified the existing ways of working and the potential for implementation of different ways of working we will have developed a “Workplace strategy blueprint” which identifies design principals.&nbsp;</p><p>The design principals will identify a strategy that specifically meets the determined outcomes and informs future development of the working environment&nbsp;</p><p>• Design standardisation&nbsp;</p><p>• Design connectivity and interpersonal communication&nbsp;</p><p>• Designed flexibility&nbsp;</p><p>• Multipurpose spaces&nbsp;</p><p>• Technology&nbsp;</p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive.&nbsp;</p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>&nbsp; &nbsp;of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-5r"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
             "paddingTop": "1",
             "paddingBottom": "1",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -593,14 +583,133 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Office Relocation Toolkit",
-          "text": "Link to the Toolkit for helpfull information",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Toolkit&nbsp;</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "Staff Amenity Calculator.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "tools",
+              "family": "et-line",
+              "active": true,
+              "link": "Planning Schedule.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "Construction Schedule.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "bulleted-list",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "Relocation Schedule.html",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "numbered-list",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-5t"
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "Staff Amenity Calculator",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Planning Schedule",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Construction Schedule",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Relocation Checklist",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Relocation Checklist",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Education",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-7d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><br></p><p><b>Strategy for Designing the workspace</b></p><p><br></p><p>A survey of a proposed space will determine areas of physical constraint and natural benefit and provide the foundation of space planning&nbsp;</p><p>It is essential to carry out an analysis of current people and space utilisation to initially determine current usage&nbsp;</p><p>Who is there ?&nbsp;</p><p>What do they do ?&nbsp;</p><p>What are the problems ?&nbsp;</p><p>In what ways the space excels.?&nbsp;</p><p>Each component part of the analysis will need consultation with executive and staff to understand&nbsp;</p><p>How, Why and When.&nbsp;</p><p>On understanding the essentials a comparison of existing space utilisation with leading trends and best practices can be made, gaps and opportunities be determined.&nbsp;</p><p><br></p><p>Generally the analysis of people and space is delivered in a number of steps with key components listed below;&nbsp;</p><p>• Analysis of existing office environments.&nbsp;</p><p>&nbsp; &nbsp;Carry out a survey of existing office space, locate common fixed assets,&nbsp;</p><p>• Analysis of proposed office space.&nbsp;</p><p>&nbsp; &nbsp; Carry out a detailed survey of existing office space, locate common fixed assets, determine physical problems areas in the tenancy.&nbsp;</p><p>• Analysis of current utilisation of space and assets through physical inspection and consultation with key staff.&nbsp;</p><p>• Document existing space use, identifying “hot points” and areas of under utilisation.&nbsp;</p><p><br></p><p>• Consult with executive and staff to understand and identify how your people currently work; defining the different styles of work, identifying unique working styles.&nbsp;</p><p>• Identify Individual specific needs&nbsp;</p><p>&nbsp;• Compare Space Analysis with current trends and leading practices.&nbsp;</p><p>• Consult with Executive to determine future staffing occupancy needs / growth and specific needs.&nbsp;</p><p>• Engage with staff to measure their satisfaction with how well the existing space supports their work&nbsp;</p><p><br></p><p><br></p><p>Information learned through the analysis of People, Technology and Space will be bought to engagement with executive staff in order to better understand the gaps between the status quo and ideal scenarios and will inform both the mechanism of the office and the modalities of the office design.</p><p><br></p><p>Having identified the existing ways of working and the potential for implementation of different ways of working we will have developed a “Workplace strategy blueprint” which identifies design principals.&nbsp;</p><p>The design principals will identify a strategy that specifically meets the determined outcomes and informs future development of the working environment&nbsp;</p><p>• Design standardisation&nbsp;</p><p>• Design connectivity and interpersonal communication&nbsp;</p><p>• Designed flexibility&nbsp;</p><p>• Multipurpose spaces&nbsp;</p><p>• Technology&nbsp;</p><p><br></p><p><br></p>",
+          "text2": "<p><br></p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive. </p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>&nbsp; &nbsp;of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p><p>Having identified the existing ways of working and the potential for implementation of different ways of working we will have developed a “Workplace strategy blueprint” which identifies design principals.&nbsp;</p><p>The design principals will identify a strategy that specifically meets the determined outcomes and informs future development of the working environment&nbsp;</p><p>• Design standardisation&nbsp;</p><p>• Design connectivity and interpersonal communication&nbsp;</p><p>• Designed flexibility&nbsp;</p><p>• Multipurpose spaces&nbsp;</p><p>• Technology&nbsp;</p><p>• (Designed serviceability&nbsp;</p><p>• Sustainability&nbsp;</p><p>• Quality delivery&nbsp;</p><p>• Utilisaton of the built environmental factors to maximise key liveability factors, natural light, ventilation, access, &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>&nbsp; &nbsp;aspect etc&nbsp;</p><p>• Enable responsiveness to change.&nbsp;</p><p>• Support innovation&nbsp;</p><p>• Discuss, evaluate and adopt improvements through consultation with executive.&nbsp;</p><p>• Design and manage the construction of prototypes, forming a physical manifestation of the new workplace strategy.&nbsp;</p><p>• Complete an audit of the prototype defining how it supports staff and through consultation with executive assess it’s&nbsp;</p><p>&nbsp; &nbsp;effectiveness.&nbsp;</p><p>• Re assess prototype and implement changes.&nbsp;</p><p>• Modify Prototype taking into account modifications to the workplace strategy, the modified prototype will become&nbsp;</p><p>&nbsp; &nbsp;critical component of the change management process as well as a training facility for people moving to a new way&nbsp;</p><p>&nbsp; &nbsp;of working.&nbsp;</p><p>• Carry out full scale design of new space, implementing modalities agreed to during the change management process. • Tender construct and co-ordinate the relocation and education of staff to the new office environment.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-5r"
         },
         {
           "_styles": {
